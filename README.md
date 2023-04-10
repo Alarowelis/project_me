@@ -1,5 +1,2 @@
 # project_me
-Hi people
-12312345124
-1234511
-124516
+"it's test project"
